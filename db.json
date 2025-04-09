@@ -1,40 +1,40 @@
 {
-  "events": [
-  {
-    "id": 5928101,
-    "category": "Socials",
-    "title": "Lagos Trivia Night",
-    "description": "Find a new friend at this event.",
-    "location":
-      " POP Landmark, Landmark Boulevard, Plot 2 & 3, Water Corporation Dr, Victoria Island, Lagos.",
-    "date": "Sunday, April 30th 2025",
-    "time": "5:00 PM",
-    "petsAllowed": "true",
-    "organizer": "Martins Oboh",
-  },
-  {
-    "id": 5928101,
-    "category": "Socials",
-    "title": "Lagos Trivia Night",
-    "description": "Find a new friend at this event.",
-    "location":
-      " POP Landmark, Landmark Boulevard, Plot 2 & 3, Water Corporation Dr, Victoria Island, Lagos.",
-    "date": "Sunday, April 30th 2025",
-    "time": "5:00 PM",
-    "petsAllowed": "true",
-    "organizer": "Martins Oboh",
-  },
-  {
-    "id": 5928101,
-    "category": "Socials",
-    "title": "Lagos Trivia Night",
-    "description": "Find a new friend at this event.",
-    "location":
-      " POP Landmark, Landmark Boulevard, Plot 2 & 3, Water Corporation Dr, Victoria Island, Lagos.",
-    "date": "Sunday, April 30th 2025",
-    "time": "5:00 PM",
-    "petsAllowed": "true",
-    "organizer": "Martins Oboh",
-  },
-  ]
+   "events": [
+   {
+     "id": 5928101,
+     "category": "Socials",
+     "title": "Lagos Trivia Night",
+     "description": "Find a new friend at this event.",
+     "location":
+       " POP Landmark, Landmark Boulevard, Plot 2 & 3, Water Corporation Dr, Victoria Island, Lagos.",
+     "date": "Sunday, April 30th 2025",
+     "time": "5:00 PM",
+     "petsAllowed": "true",
+     "organizer": "Martins Oboh",
+   },
+   {
+     "id": 5928101,
+     "category": "Socials",
+     "title": "Lagos Trivia Night",
+     "description": "Find a new friend at this event.",
+     "location":
+       " POP Landmark, Landmark Boulevard, Plot 2 & 3, Water Corporation Dr, Victoria Island, Lagos.",
+     "date": "Sunday, April 30th 2025",
+     "time": "5:00 PM",
+     "petsAllowed": "true",
+     "organizer": "Martins Oboh",
+   },
+   {
+     "id": 5928101,
+     "category": "Socials",
+     "title": "Lagos Trivia Night",
+     "description": "Find a new friend at this event.",
+     "location":
+       " POP Landmark, Landmark Boulevard, Plot 2 & 3, Water Corporation Dr, Victoria Island, Lagos.",
+     "date": "Sunday, April 30th 2025",
+     "time": "5:00 PM",
+     "petsAllowed": "true",
+     "organizer": "Martins Oboh",
+   }
+ ]
 }
