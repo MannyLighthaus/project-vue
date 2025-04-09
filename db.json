@@ -10,10 +10,10 @@
      "date": "Sunday, April 30th 2025",
      "time": "5:00 PM",
      "petsAllowed": "true",
-     "organizer": "Martins Oboh",
+     "organizer": "Martins Oboh"
    },
    {
-     "id": 5928101,
+     "id": 5928102,
      "category": "Socials",
      "title": "Lagos Trivia Night",
      "description": "Find a new friend at this event.",
@@ -22,10 +22,10 @@
      "date": "Sunday, April 30th 2025",
      "time": "5:00 PM",
      "petsAllowed": "true",
-     "organizer": "Martins Oboh",
+     "organizer": "Martins Oboh"
    },
    {
-     "id": 5928101,
+     "id": 5928103,
      "category": "Socials",
      "title": "Lagos Trivia Night",
      "description": "Find a new friend at this event.",
@@ -34,7 +34,7 @@
      "date": "Sunday, April 30th 2025",
      "time": "5:00 PM",
      "petsAllowed": "true",
-     "organizer": "Martins Oboh",
+     "organizer": "Martins Oboh"
    }
  ]
 }
