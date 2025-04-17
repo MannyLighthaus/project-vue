@@ -38,39 +38,39 @@
    },
    {
      "id": 4,
-     "category": "Tech",
-     "title": "Two Weeks Computer Skills Training",
-     "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
+     "category": "Music",
+     "title": "Afrobeats Live Concert",
+     "description": "Experience an electrifying night of Afrobeats with top Nigerian artists like Burna Boy, Ayra Starr, and Fireboy DML.",
      "location":
-       " 5, Adebo Close, Off Wilmer Street, Ilupeju Estate, Ilupeju, Lagos.",
-     "date": "Monday, April 7th 2025",
-     "time": "12:00 PM",
+       "Eko Hotel & Suites, Victoria Island, Lagos",
+     "date": "Saturday, May 10th 2025",
+     "time": "7:00 PM",
      "petsAllowed": "false",
-     "organizer": "Carey Wales"
+     "organizer": "Lawal kareem"
    },
    {
      "id": 5,
      "category": "Tech",
-     "title": "Two Weeks Computer Skills Training",
-     "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
+     "title": "Nigeria Developers Conference 2025",
+     "description": "Join Nigeria's brightest minds in software development, AI, and blockchain for a 2-day conference full of talks, workshops, and networking.",
      "location":
-       " 5, Adebo Close, Off Wilmer Street, Ilupeju Estate, Ilupeju, Lagos.",
-     "date": "Monday, April 7th 2025",
-     "time": "12:00 PM",
+       "Landmark Centre, Lagos",
+     "date": "Sunday, June 15th 2025",
+     "time": "9:00 AM",
      "petsAllowed": "false",
-     "organizer": "Carey Wales"
+     "organizer": "James Kales"
    },
    {
      "id": 6,
-     "category": "Tech",
-     "title": "Two Weeks Computer Skills Training",
-     "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
+     "category": "Culture",
+     "title": "Iri Ji Festival",
+     "description": "Celebrate the rich Igbo heritage with cultural dances, masquerades, yam feasts, and traditional music in this vibrant annual event.",
      "location":
-       " 5, Adebo Close, Off Wilmer Street, Ilupeju Estate, Ilupeju, Lagos.",
-     "date": "Monday, April 7th 2025",
+       "Michael Okpara Square, Enugu",
+     "date": "Sunday, August 24th 2025",
      "time": "12:00 PM",
      "petsAllowed": "false",
-     "organizer": "Carey Wales"
+     "organizer": "Obi Cubana"
    }
  ]
 }
