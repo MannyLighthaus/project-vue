@@ -1,7 +1,7 @@
 {
    "events": [
    {
-     "id": 5928101,
+     "id": 1,
      "category": "Socials",
      "title": "Lagos Trivia Night",
      "description": "Find a new friend at this event.",
@@ -13,7 +13,7 @@
      "organizer": "Martins Oboh"
    },
    {
-     "id": 4582797,
+     "id": 2,
      "category": "Religion",
      "title": "CCI Sunday Service",
      "description": "Come and worship with us on Sunday. We can’t wait to fellowship with you.",
@@ -25,7 +25,7 @@
      "organizer": "Fern Pollin"
    },
    {
-     "id": 8419988,
+     "id": 3,
      "category": "Tech",
      "title": "Two Weeks Computer Skills Training",
      "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
@@ -35,6 +35,42 @@
      "time": "12:00 PM",
      "petsAllowed": "false",
      "organizer": "Carey Wales"
-   }
+   },
+   {
+     "id": 4,
+     "category": "Tech",
+     "title": "Two Weeks Computer Skills Training",
+     "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
+     "location":
+       " 5, Adebo Close, Off Wilmer Street, Ilupeju Estate, Ilupeju, Lagos.",
+     "date": "Monday, April 7th 2025",
+     "time": "12:00 PM",
+     "petsAllowed": "false",
+     "organizer": "Carey Wales"
+   },
+   {
+     "id": 5,
+     "category": "Tech",
+     "title": "Two Weeks Computer Skills Training",
+     "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
+     "location":
+       " 5, Adebo Close, Off Wilmer Street, Ilupeju Estate, Ilupeju, Lagos.",
+     "date": "Monday, April 7th 2025",
+     "time": "12:00 PM",
+     "petsAllowed": "false",
+     "organizer": "Carey Wales"
+   },
+   {
+     "id": 6,
+     "category": "Tech",
+     "title": "Two Weeks Computer Skills Training",
+     "description": "Ready to level up your tech skills? Join our 2 Weeks Intensive Computer Skills Training.",
+     "location":
+       " 5, Adebo Close, Off Wilmer Street, Ilupeju Estate, Ilupeju, Lagos.",
+     "date": "Monday, April 7th 2025",
+     "time": "12:00 PM",
+     "petsAllowed": "false",
+     "organizer": "Carey Wales"
+   },
  ]
 }
